@@ -1,4 +1,4 @@
-1/ Khởi tạo dự án: git initgit
+1/ Khởi tạo dự án: git init
 2/ git remote add origin: gắn link git mới tạo vô
 3/ Đẩy bài
 +git add -A
@@ -11,6 +11,7 @@ git config --global user.email "your@email.com"
 -đẩy lần 2 trở đi
 +git push
 
+<<<<<<< HEAD
 -tạo nhánh mới
 git checkout -b newbrach
 
@@ -18,3 +19,8 @@ git checkout -b newbrach
 git branch
 
 -đem code từ master sang login
+=======
+
+-tạo nhánh
+git checkout -b newBranch
+>>>>>>> login
