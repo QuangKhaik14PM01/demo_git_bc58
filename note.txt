@@ -10,3 +10,11 @@ git config --global user.email "your@email.com"
 +git push -u origin master
 -đẩy lần 2 trở đi
 +git push
+
+-tạo nhánh mới
+git checkout -b newbrach
+
+-nhận biết đang ở nhánh có và đang ở nhánh nào
+git branch
+
+-đem code từ master sang login
