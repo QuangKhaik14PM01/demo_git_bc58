@@ -1,2 +1,12 @@
 1/ Khởi tạo dự án: git initgit
 2/ git remote add origin: gắn link git mới tạo vô
+3/ Đẩy bài
++git add -A
++git commit -m""
+git config --global user.name "Your name"
+git config --global user.email "your@email.com"
+
+-đẩy lần đầu
++git push -u origin master
+-đẩy lần 2 trở đi
++git push
