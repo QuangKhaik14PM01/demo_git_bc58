@@ -1,0 +1,2 @@
+1/ Khởi tạo dự án: git initgit
+2/ git remote add origin: gắn link git mới tạo vô
